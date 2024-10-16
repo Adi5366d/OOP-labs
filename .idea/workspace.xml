@@ -5,16 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43d58e4b-fdaa-4ce7-aeb0-e21997c70bce" name="Changes" comment="Commit attempt no. 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Adi5366d"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Adi5366d/OOP-labs.git",
+    "accountId": "d5757873-8cc4-4536-92fa-fda8384556ef"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -37,6 +58,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Gazda/IdeaProjects/Lab 1/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "configurable.tailwindcss",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,7 +83,7 @@
       <updated>1728851456734</updated>
       <workItem from="1728851457913" duration="177000" />
       <workItem from="1728851663221" duration="328000" />
-      <workItem from="1729007438405" duration="16374000" />
+      <workItem from="1729007438405" duration="16776000" />
     </task>
     <task id="LOCAL-00001" summary="Commit attempt no. 1">
       <option name="closed" value="true" />
@@ -69,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729073046265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit attempt no. 1">
+      <option name="closed" value="true" />
+      <created>1729073235404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729073235404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
